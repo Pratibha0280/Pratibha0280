@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratibha0280
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: 'Pratibha0280@gmail.com'
 
 <!---
